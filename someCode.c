@@ -1,5 +1,6 @@
 int main()
 {
-printf("Hello World!");
+printf("Hello asshole!");
+printf("%s\n", "sda");
 return 0;
 }
