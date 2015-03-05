@@ -1,7 +1,11 @@
 #include <stdio.h>
 int main()
 {
-	int a = 3, b = 34;
-	printf("a + b = %d",a+b);
+	float a = 3.14;
+	float b = 2.71;
+
+	printf("a + b = %f",a+b);
+
+	getch();
 	return 0;
 }
